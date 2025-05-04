@@ -1,0 +1,11 @@
+@startuml map
+
+class Map {
+    +rows: int
+    +cols: int
+
+    +create(n_rows: int, n_cols: int)
+
+}
+
+@enduml

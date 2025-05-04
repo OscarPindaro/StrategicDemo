@@ -1,0 +1,7 @@
+@startuml building
+
+class Building {
+    
+}
+
+@enduml
